@@ -1,5 +1,5 @@
-Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+This repository will be a compilation of daily coding problems. 
 
-For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
+This will be an exercise to continually improve my skills and stay sharp. 
 
-Bonus: Can you do this in one pass?
+As of now, the language of choice will be Java.
